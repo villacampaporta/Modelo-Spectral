@@ -5,7 +5,9 @@ Este repositorio se corresponde al código utilizado para llevar a acabo el sigu
 **GENERACIÓN SINTÉTICA DE DATOS PARA MODELOS DE MACHINE LEARNING ORIENTADOS A LA CARACTERIZACIÓN DIELÉCTRICA DE LÍQUIDOS MEDIANTE UN RESONADOR DIELÉCTRICO.**
 
 **Autor:** Villacampa Porta, Javier. 
+
 **Directores:** Monteagudo Honrubia, Miguel y Herraiz Martínez, Francisco Javier
+
 **Entidad Colaboradora:** ICAI – Universidad Pontificia Comillas
 
 **RESUMEN DEL PROYECTO** 
