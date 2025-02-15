@@ -96,7 +96,7 @@ Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
 Machine Learning: Scikit-learn (SVM, SVR, PCA), Synthetic Data Vault (SDV)
 
-Deep Learning: TVAE, CTGAN, Autoencoders
+Deep Learning: TVAE, CTGAN
 
 Performance Monitoring: Memory profiling, computational efficiency
 
